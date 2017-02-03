@@ -61,7 +61,6 @@ public class LectureVariables2 {
 
     public static void main(String[] args) {
 
-    	Q3();
         // You can optionally use this main method to test your code without having to submit
         // This main method will not be graded
 
